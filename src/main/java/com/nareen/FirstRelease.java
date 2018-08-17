@@ -8,5 +8,6 @@ public class FirstRelease {
 
         System.out.println("Fixed the production bug");
 
+        System.out.println("Hello added ");
     }
 }
