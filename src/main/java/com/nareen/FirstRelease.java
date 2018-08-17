@@ -6,5 +6,6 @@ public class FirstRelease {
 
         System.out.println("Release version 1 and coding completed");
 
+        System.out.println("Hello added ");
     }
 }
